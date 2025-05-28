@@ -1,8 +1,8 @@
-Unscrambble the technical word. 
+Unscramble the technical word. 
 
 🥅 Objective
 
-- You will be given a technical word that is related directly to programming terminologies like syntax, database, etc. Your job is to guess the correct word.
+- You will be given a scrambled technical word that is related directly to programming terminologies like syntax, database, etc. Your job is to guess the correct word.
 
 🚧 Constraints
 
